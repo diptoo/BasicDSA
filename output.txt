@@ -1,23 +1,6 @@
-1 is pushed
-2 is pushed
-3 is pushed
-4 is pushed
-5 is pushed
-6 is pushed
-7 is pushed
-8 can't be pushed
-1 is popped
-2 is popped
-9 is pushed
-3
-3 is popped
+10->0->1->2->3->4->
+1
+0
+-1
 4
-4 is popped
-5
-5 is popped
-6
-6 is popped
-7
-7 is popped
-9
-9 is popped
+4->3->2->1->0->10->
