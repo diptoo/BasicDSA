@@ -44,6 +44,7 @@ Node *insertBinarySearchTree(Node *root, int key)
 
 //complexity O(height of the tree), worst case height n. logn<=O(Height)<=n.
 //Complexity depends on the structure of the tree
+//Advantages over BT because BT takes O(n) in most cases
 bool searchBST(Node *root, int key)
 {
     if (root == NULL)
